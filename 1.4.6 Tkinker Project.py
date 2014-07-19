@@ -1,5 +1,5 @@
 '''
-Creates a GUI in which a mouse drag creates a circle. 
+We HOPE it creates a GUI in which a mouse drag creates a circle. 
 Not fully implemented.
 Refer to:
     
